@@ -1,6 +1,6 @@
 # hello-world
 Hello world GitHub tutorial
-# Hi My name is Itzy!
+# Hi my name is Itzy!
 **Facts about me**
 - I am 28 years old.
 - I have 4 dogs.
